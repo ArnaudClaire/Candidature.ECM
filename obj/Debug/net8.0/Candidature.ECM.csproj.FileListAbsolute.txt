@@ -1,0 +1,14 @@
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\bin\Debug\net8.0\Candidature.ECM.exe
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\bin\Debug\net8.0\Candidature.ECM.deps.json
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\bin\Debug\net8.0\Candidature.ECM.runtimeconfig.json
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\bin\Debug\net8.0\Candidature.ECM.dll
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\bin\Debug\net8.0\Candidature.ECM.pdb
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.AssemblyInfoInputs.cache
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.AssemblyInfo.cs
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.csproj.CoreCompileInputs.cache
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.dll
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\refint\Candidature.ECM.dll
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.pdb
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\Candidature.ECM.genruntimeconfig.cache
+C:\Users\arnau\Downloads\Candidature_ECM_DotNet\Candidature.ECM\obj\Debug\net8.0\ref\Candidature.ECM.dll
